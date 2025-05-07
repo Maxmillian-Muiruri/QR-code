@@ -1,5 +1,5 @@
 # QR Code Component
-➡[View live site]](https://vercel.com/maxmillianmuiruris-projects/qr-code)
+➡[View live site]](https://qr-code-git-master-maxmillianmuiruris-projects.vercel.app/)
 
 
 
