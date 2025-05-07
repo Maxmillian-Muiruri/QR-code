@@ -1,4 +1,7 @@
 # QR Code Component
+➡[View live site]](https://vercel.com/maxmillianmuiruris-projects/qr-code)
+
+
 
 This project is a responsive QR code component built as a front-end challenge from Frontend Mentor. It demonstrates the use of semantic HTML and CSS to create a clean, modern, and visually appealing UI component that displays a QR code with supporting text.
 
